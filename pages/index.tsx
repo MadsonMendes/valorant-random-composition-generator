@@ -176,7 +176,7 @@ export default function Home() {
                 <Label htmlFor="checkbox">Get an agent for each role.</Label>
             </SwitchWrapper>
                 <Credits> Made with ❤️ by Madson. </Credits>
-                <Legal>This site is not associated with Riot Games. All rights belong to their respective owners. Valorant Random Composition Generator was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.</Legal>
+                <Legal>{`This site is not associated with Riot Games. All rights belong to their respective owners. Valorant Random Composition Generator was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.`}</Legal>
         </Wrapper>
     )
 }
