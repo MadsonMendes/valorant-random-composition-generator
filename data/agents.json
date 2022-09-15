@@ -1,0 +1,102 @@
+{
+    "Agent": {
+        "displayIcon": "",
+        "role": "",
+        "colors": []
+    },
+    "Fade": {
+        "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+        "role": "Initiator",
+        "colors": ["b1414c", "5589bd", "18344c", "66376c"]
+    },
+    "Breach": {
+        "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/displayicon.png",
+        "role": "Initiator",
+        "colors": ["ff9c33", "b04621", "523a23", "44412e"]
+    },
+    "Raze": {
+        "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/displayicon.png",
+        "role": "Duelist",
+        "colors": ["feac45", "d64f35", "2c5942", "2b474b"]
+    },
+    "Chamber": {
+        "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+        "role": "Sentinel",
+        "colors": ["ffce6f", "7b4d21", "372d2b", "163555"]
+    },
+    "KAY/O": {
+        "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+        "role": "Initiator",
+        "colors": ["ff4afa", "4da6e1", "1a1e4b", "391a61"]
+    },
+    "Skye": {
+        "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/displayicon.png",
+        "role": "Initiator",
+        "colors": ["94e789", "aa8a49", "4f1413", "314d48"]
+    },
+    "Cypher": {
+        "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/displayicon.png",
+        "role": "Sentinel",
+        "colors": ["db9b75", "4268b3", "3f3f6c", "2b527c"]
+    },
+    "Sova": {
+        "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+        "role": "Initiator",
+        "colors": ["f7c7a5", "392931", "101c47", "082652"]
+    },
+    "Killjoy": {
+        "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/displayicon.png",
+        "role": "Sentinel",
+        "colors": ["ffc300", "b87b00", "413950", "614414"]
+    },
+    "Viper": {
+        "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/displayicon.png",
+        "role": "Controller",
+        "colors": ["89f476", "347334", "2c4f5e", "493a7c"]
+    },
+    "Phoenix": {
+        "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+        "role": "Duelist",
+        "colors": ["f7bf60", "ea6d4e", "262423", "363b42"]
+    },
+    "Astra": {
+        "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+        "role": "Controller",
+        "colors": ["f47dc9", "a54498", "5210c6", "372518"]
+    },
+    "Brimstone": {
+        "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+        "role": "Controller",
+        "colors": ["eb953f", "892c1b", "211d21", "282b38"]
+    },
+    "Neon": {
+        "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayicon.png",
+        "role": "Duelist",
+        "colors": ["ffba89", "6241cc", "38328e", "2c4799"]
+    },
+    "Yoru": {
+        "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/displayicon.png",
+        "role": "Duelist",
+        "colors": ["ff66a8", "3b37a7", "261e4f", "101042"]
+    },
+    "Sage": {
+        "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+        "role": "Sentinel",
+        "colors": ["7bfede", "41819a", "102d23", "226071"]
+    },
+    "Reyna": {
+        "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+        "role": "Duelist",
+        "colors": ["e46e77", "c44d9f", "2f2664", "2f203f"]
+    },
+    "Omen": {
+        "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+        "role": "Controller",
+        "colors": ["2fddde", "4f53af", "344673", "193b3d"]
+    },
+    "Jett": {
+        "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+        "role": "Duelist",
+        "colors": ["90e3fd", "557f8c", "2b4e7c", "1e3344"]
+    }
+}
