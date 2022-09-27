@@ -1,4 +1,4 @@
-# Valorant Random Composition
+# Valorant Random Composition Generator
 
 A tool for generate five random agents to you and your teammates.
 
@@ -23,15 +23,15 @@ A tool for generate five random agents to you and your teammates.
 
 .ts files with a sorting algorithm and two generation functions.
 
-### interfaces
+### /interfaces
 
 Interface for styling props.
 
-### pages
+### /pages
 
 Main page.
 
-### styles
+### /styles
 
 All styled components.  
 
