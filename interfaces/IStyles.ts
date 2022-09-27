@@ -1,3 +1,3 @@
 export default interface IStyles {
-    backgroundColor: string
+  backgroundColor: string
 }
